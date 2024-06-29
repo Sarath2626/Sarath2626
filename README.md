@@ -3,9 +3,9 @@
 
 <p align="left"> <img src=https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm"https://komarev.com/ghpvc/?username=sarath2626&label=Profile%20views&color=0e75b6&style=flat" alt="sarath2626" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Software Tester**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 📫 How to reach me **sarathkumark2626@gmail.com**
 
